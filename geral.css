@@ -1,9 +1,25 @@
 #calculadora {
-    background-color: rgb(77, 161, 182);
+    background-color: rgb(43, 177, 204);
     width: 200px;
     padding: 10px;
     text-align: center;
     border-radius: 10px;
+    box-shadow: 5px 5 px rgb(1, 1, 82);
+}
+.spMes {
+    border-color: black;
+    border-width: 1px;
+    border-style: dashed;
+    background-color: rgb(12, 54, 54);
+    color: beige;
+    text-align: start;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 10px;
+}
+#calculadora input:focus{
+    background: gray;
+    color: white;
 }
 #calculadora input {
     background-color: black;
@@ -19,8 +35,8 @@
     margin-bottom: 10px;
 }
 #calculadora button {
-    background-color: chocolate;
-    color: white;
+    background-color: aquamarine;
+    color: black;
     padding: 5px;
     border-radius: 5px;
     margin-top: 10px;
