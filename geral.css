@@ -6,6 +6,14 @@
     border-radius: 10px;
     box-shadow: 5px 5 px rgb(1, 1, 82);
 }
+#calculadoraESG {
+    background-color: rgb(153, 43, 204);
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 5 px rgb(1, 1, 82);
+}
 .spMes {
     border-color: black;
     border-width: 1px;
